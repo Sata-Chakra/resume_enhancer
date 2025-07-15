@@ -1,0 +1,40 @@
+Satadal Chakravarty
+AI Engineer | Data Scientist | MLOps Enthusiast
+Email: satadal@example.com | LinkedIn: linkedin.com/in/satadal-chakravarty | GitHub: github.com/Sata-Chakra
+
+Summary:
+Results-driven AI Engineer with 5+ years of experience building scalable machine learning systems. Proficient in Python, data analytics, and deep learning. Adept at transforming business challenges into data-driven solutions.
+
+Skills:
+- Programming: Python, SQL, Bash, JavaScript
+- Libraries: Pandas, NumPy, Scikit-learn, TensorFlow, PyTorch, OpenCV
+- Cloud & Tools: AWS (S3, Lambda, SageMaker), Docker, Git, Flask, Streamlit
+- Languages: English (Fluent), Hindi (Native)
+
+Experience:
+Lead ML Engineer — India AI Labs (2021–Present)
+- Developed real-time ML pipelines for satellite data using AWS Lambda and SageMaker.
+- Designed NLP pipeline for sensitive data anonymization using spaCy and Presidio.
+- Mentored a team of 4 junior engineers and contributed to 3 published research papers.
+
+Data Analyst — ABC Solutions (2019–2021)
+- Conducted time-series analysis and demand forecasting using Prophet and ARIMA models.
+- Automated reporting using Python, reducing manual workload by 60%.
+
+Projects:
+- Flight Delay Prediction System using Random Forest (92% accuracy)
+- Goat Identification using Facial Biometrics and Pose Estimation
+- Resume Analyzer Web App using Flask and NLTK (this one!)
+
+Education:
+B.Tech in Computer Science — Bengal University, Kolkata
+
+Certifications:
+- TensorFlow Developer Certificate (Google)
+- NVIDIA Deep Learning Fundamentals
+- CS50’s Introduction to Artificial Intelligence (Harvard)
+
+Keywords: Python, machine learning, data science, AWS, pandas, computer vision, deep learning, flask
+
+
+
